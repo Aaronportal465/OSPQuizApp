@@ -1,3 +1,6 @@
 # OSPQuizApp
 
-files for my Star Wars Quiz App
+For the main java files for the app use this path:
+
+OSPQuizApp/AaronsQuiz/app/src/main/java/com/example/aaronsquiz/
+
