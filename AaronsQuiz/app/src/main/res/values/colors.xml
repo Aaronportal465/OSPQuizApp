@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#b36800</color> <!-- this is second bar-->
+    <color name="colorPrimaryDark">#e88809</color> <!-- this is the very top bar -->
+    <color name="colorAccent">#ff5900</color> <!-- this is for when you press radio buttons-->
+    <color name="colorBackground">#2c3299</color> <!-- this is a comment-->
+</resources>
